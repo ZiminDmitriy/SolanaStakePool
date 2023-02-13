@@ -1,0 +1,6 @@
+{
+  "name": "Eversol staked SOL",
+  "symbol": "eSOL",
+  "description": "Eversol staking pool liquid token",
+  "image": "https://raw.githubusercontent.com/everstake/solana-program-library/master/stake-pool/static-content/images/esol_token.jpg"
+}
